@@ -1,2 +1,7 @@
 segundo documento del ejercicio
+<<<<<<< HEAD
 Edición Cristian Mundo1
+=======
+
+Aunque es el segundo su nombre indica que es de primer mundo
+>>>>>>> a33ef087cf27f61c42805d78837976173153f86c
